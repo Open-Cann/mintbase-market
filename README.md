@@ -1,7 +1,7 @@
 ---
 name: Simple Marketplace
 slug: simple-marketplace
-description: Simple Marketplace on MintBase
+description: Simple Marketplace on MintBase for [Cannstagram](https://cannsta.co)
 framework: Next.js
 css: Tailwind
 deployUrl: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FMintbase%2Fexamples%2Ftree%2Fmain%2Fsimple-marketplace
